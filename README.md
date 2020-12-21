@@ -1,6 +1,6 @@
-#Gonzalo Ezequiel Lamas 💻
+**Gonzalo Ezequiel Lamas** 💻
 
-`## Desarrollador web Front-End`
+`Desarrollador web Front-End`
 
 ¡Hola! Mi nombre es Gonzalo, y soy un estudiante de Desarrollo Web Front-End.
 
@@ -12,6 +12,6 @@ Hoy en día sigo desarrollando proyectos, y aprendiendo más de front-end. Explo
 
 Aquí pueden ver algunos de mis proyectos:
 
-`## Proyectos principales`
+`Proyectos principales`
 
 **Frontend**
