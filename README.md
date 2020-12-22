@@ -8,7 +8,7 @@ Tengo 20 años, y comencé mi proceso de aprendizaje a mitad del 2020 🖱⌨.
 
 Con curiosidad sobre cómo se crean las páginas web, llegué a los lenguajes de marcado (HTML, CSS), donde empecé a diseñar mis primeras páginas con alojamiento en github.
 
-Hoy en día sigo desarrollando proyectos, y aprendiendo más de front-end. Explorando Javascript, y como proxima librería React.
+Hoy en día sigo desarrollando proyectos, y aprendiendo más de front-end. Explorando Javascript, y como proximo objetivo enfocarme en el stack MERN.
 
 Aquí pueden ver algunos de mis proyectos:
 
