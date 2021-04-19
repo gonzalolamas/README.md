@@ -1,6 +1,6 @@
 # **Gonzalo Ezequiel Lamas** 💻
 
-## `Desarrollador Front-End`
+## `Desarrollador Web`
 
 ¡Hola! Mi nombre es Gonzalo, y soy un estudiante de Desarrollo Web Front-End.
 
