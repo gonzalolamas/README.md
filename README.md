@@ -4,12 +4,6 @@
 
 ¡Hola! Mi nombre es Gonzalo, y soy un estudiante de Desarrollo Web Front-End.
 
-Tengo 20 años, y comencé mi proceso de aprendizaje a mitad del 2020 🖱⌨.
-
-Con curiosidad sobre cómo se crean las páginas web, llegué a los lenguajes de marcado (HTML, CSS), donde empecé a diseñar mis primeras páginas con alojamiento en github.
-
-Hoy en día sigo desarrollando proyectos, y aprendiendo más de front-end. Finalicé el curso de Desarrollo de aplicaciones web con NodeJS, en Comunidad IT. El mismo me permitió desarrollar mis habilidades técnicas, como también a trabajar en equipo.
-
 Aquí pueden ver algunos de mis proyectos:
 
 ## `Proyectos principales`
