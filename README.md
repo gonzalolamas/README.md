@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Gonzalo</h1>
-<h3 align="center">Desarrollador Web Front-End</h3>
+<h3 align="center">Analista QA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalolamas&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalolamas" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo **API testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
